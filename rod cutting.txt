@@ -1,0 +1,24 @@
+肈ヘ()龟Rod Cutting Problem
+把σ戈揭セ材15.1竊
+祘Α砏
+1. 块ㄤΑ
+k
+p1凙p2凙凙pk
+ㄤいkタ俱计p1,,pkkだフ跋筳凙ぇタ俱计pi
+iぇrodぇ基
+2. 块盢kぇrodだ琿┮眔ぇ程基籔ㄤち澄よ猭块Α
+
+P
+q
+k=i1+i2++iq
+ㄤいP程基q赣臟兵だ眔ぇ琿计(i1,i2,,iq)ㄤだ猭
+块絛ㄒ
+Input
+10
+1 5 8 9 10 17 17 20 24 30
+Output
+30
+1
+10=10
+干弧
+1. 把计ぇ絛瞅k<=100
